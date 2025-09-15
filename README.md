@@ -71,7 +71,7 @@ HackTheBox • LilyGO • Carbon Computers • Flipper Devices • HAK5 • M5St
 - 📝 Blog: [Medium](https://medium.com/@ferdibirgul)  
 - 📱 Instagram: [ferdibirgull](https://instagram.com/ferdibirgull)  
 - 🎶 TikTok: [@ferdibirgull](https://tiktok.com/@ferdibirgull)  
-- 💻 GitHub: [ferdib](https://github.com/ferdib)  
+    
 
 ---
 
