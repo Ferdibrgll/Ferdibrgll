@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-<a href="https://ferdibirgul.com/" target="_blank">
-  <img src="https://img.shields.io/badge/ferdibirgul.com-2563EB?style=for-the-badge&logoColor=white" alt="Ferdi Birgül Website"/></a>
+<a href="https://ferdibirgul.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ferdibirgul.com-171717?style=for-the-badge&labelColor=171717&color=171717&labelColor=171717" alt="Ferdi Birgül Website" style="filter: none;"/>
+</a>
   <a href="https://www.linkedin.com/in/ferdibirg%C3%BCl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@Ferdibirgul"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://medium.com/@ferdibirgul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
